@@ -1,15 +1,3 @@
-/* Citation and Sources...
-Final Project Milestone 5
-Module: LibApp
-Filename: LibApp.cpp
-Version 1.0
-Author	Arina Kolodeznikova
-Student ID: 145924213
------------------------------------------------------------
-I have done all the coding by myself and only copied the code
-that my professor provided to complete my project milestones.
------------------------------------------------------------*/
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <cstring>
@@ -21,7 +9,7 @@ that my professor provided to complete my project milestones.
 using namespace std;
 
 namespace sdds {
-	LibApp::LibApp(const char* file): m_mainMenu("Seneca Library Application"),
+	LibApp::LibApp(const char* file): m_mainMenu("Library Application"),
 		m_exitMenu("Changes have been made to the data, what would you like to do?"),
 		m_pubMenu("Choose the type of publication:") {
 		strcpy(filename, file);

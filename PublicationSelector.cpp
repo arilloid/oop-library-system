@@ -1,24 +1,3 @@
-// Final Project 
-// PublicationSelector
-// File PublicationSelector.h
-// Version 1.0
-// Author	Fardad Soleimanloo
-// Revision History
-// -----------------------------------------------------------
-// Name               Date                 Reason
-/////////////////////////////////////////////////////////////////
-/* Citation and Sources...
-Final Project Milestone 5
-Module: PublicationSelector
-Filename: Publication.cpp
-Version 1.0
-Author	Arina Kolodeznikova
-Student ID: 145924213
------------------------------------------------------------
-I have done all the coding by myself and only copied the code
-that my professor provided to complete my project milestones.
------------------------------------------------------------*/
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <cstring>

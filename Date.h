@@ -1,24 +1,3 @@
-/* Citation and Sources...
-Final Project Milestone 5
-Module: Date
-Filename: Date.h
-Version 1.0
-Author	Arina Kolodeznikova
-Student ID: 145924213
------------------------------------------------------------
-I have done all the coding by myself and only copied the code
-that my professor provided to complete my project milestones.
------------------------------------------------------------*/
-// Final Project Milestone 1
-// Date Module
-// File  Date.h
-// Version 1.0
-// Author   Fardad Soleimanloo
-// Revision History
-// -----------------------------------------------------------
-// Name               Date                 Reason
-/////////////////////////////////////////////////////////////////
-
 #ifndef SDDS_DATE_H__
 #define SDDS_DATE_H__
 
