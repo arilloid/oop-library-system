@@ -1,6 +1,6 @@
 # Project: Seneca Library Application
 
-The library application is written in `C++` following the `Object-Oriented` programming principles.
+- The library application is written in `C++` following the `Object-Oriented` programming principles.
 
 When Books and other publications arrive in the Seneca library, they should be tagged and put on shelves, so they are easily retrievable to be lent out to those who need them. 
 This application receives the publications and stores them into the system with the information needed for their retrieval. 
